@@ -1,0 +1,10 @@
+[package]
+edition = "2018"
+name = "my"
+version = "0.1.0"
+authors = ["David Wildasin <dragonmaus@posteo.net>"]
+publish = false
+description = "Personal utility library"
+categories = []
+license = "BSD-3-Clause-Clear"
+repository = "https://git.dragonma.us/dragonmaus/my.rs"
